@@ -14,10 +14,12 @@
     <li>
       <packageId>brrainz.harmony</packageId>
       <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
     </li>
     <li>
       <packageId>rockets.ranks</packageId>
       <displayName>Rocket's Ranks</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3696191340</steamWorkshopUrl>
     </li>
   </modDependencies>
 </ModMetaData>
