@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Rank_Private -->
+    <Rank_Private.label>Рядовой</Rank_Private.label>
+    <Rank_Private.description>Начальный ранг. Колонист, который был официально зачислен на службу.</Rank_Private.description>
+    
+    <!-- Rank_PrivateFirstClass -->
+    <Rank_PrivateFirstClass.label>Рядовой первого класса</Rank_PrivateFirstClass.label>
+    <Rank_PrivateFirstClass.description>Квалифицированный солдат. Первое повышение, которое получает солдат-колонист.</Rank_PrivateFirstClass.description>
+    
+    <!-- Rank_Corporal -->
+    <Rank_Corporal.label>Капрал</Rank_Corporal.label>
+    <Rank_Corporal.description>Младший унтер-офицер. Ему доверено руководство небольшой группой.</Rank_Corporal.description>
+    
+    <!-- Rank_Sergeant -->
+    <Rank_Sergeant.label>Сержант</Rank_Sergeant.label>
+    <Rank_Sergeant.description>Опытный унтер-офицер, отвечающий за дисциплину и обучение.</Rank_Sergeant.description>
+    
+    <!-- Rank_StaffSergeant -->
+    <Rank_StaffSergeant.label>Штаб-сержант</Rank_StaffSergeant.label>
+    <Rank_StaffSergeant.description>Старший унтер-офицер со значительным опытом и лидерскими обязанностями.</Rank_StaffSergeant.description>
+    
+    <!-- Rank_SergeantFirstClass -->
+    <Rank_SergeantFirstClass.label>Сержант первого класса</Rank_SergeantFirstClass.label>
+    <Rank_SergeantFirstClass.description>Старший унтер-офицер со значительным опытом и лидерскими обязанностями.</Rank_SergeantFirstClass.description>
+    
+    <!-- Rank_MasterSergeant -->
+    <Rank_MasterSergeant.label>Мастер-сержант</Rank_MasterSergeant.label>
+    <Rank_MasterSergeant.description>Высококвалифицированный унтер-офицер с обширными лидерскими и управленческими навыками.</Rank_MasterSergeant.description>
+    
+    <!-- Rank_FirstSergeant -->
+    <Rank_FirstSergeant.label>Первый сержант</Rank_FirstSergeant.label>
+    <Rank_FirstSergeant.description>Самый высокопоставленный унтер-офицер, отвечающий за общую дисциплину и операции.</Rank_FirstSergeant.description>
+    
+    <!-- Rank_SergeantMajor -->
+    <Rank_SergeantMajor.label>Сержант-майор</Rank_SergeantMajor.label>
+    <Rank_SergeantMajor.description>Старший унтер-офицер, отвечающий за надзор за обучением и дисциплиной всех сил колонии.</Rank_SergeantMajor.description>
+    
+    <!-- Rank_SecondLieutenant -->
+    <Rank_SecondLieutenant.label>Второй лейтенант</Rank_SecondLieutenant.label>
+    <Rank_SecondLieutenant.description>Начальный офицерский ранг. Колонист, который был назначен офицером.</Rank_SecondLieutenant.description>
+    
+    <!-- Rank_FirstLieutenant -->
+    <Rank_FirstLieutenant.label>Первый лейтенант</Rank_FirstLieutenant.label>
+    <Rank_FirstLieutenant.description>Младший офицер, отвечающий за командование взводом или работу в качестве штабного офицера.</Rank_FirstLieutenant.description>
+    
+    <!-- Rank_Captain -->
+    <Rank_Captain.label>Капитан</Rank_Captain.label>
+    <Rank_Captain.description>Офицер среднего звена, отвечающий за командование ротой или работу в штабе.</Rank_Captain.description>
+    
+    <!-- Rank_Major -->
+    <Rank_Major.label>Майор</Rank_Major.label>
+    <Rank_Major.description>Старший офицер, отвечающий за координацию операций между несколькими подразделениями.</Rank_Major.description>
+    
+    <!-- Rank_LieutenantColonel -->
+    <Rank_LieutenantColonel.label>Подполковник</Rank_LieutenantColonel.label>
+    <Rank_LieutenantColonel.description>Высокопоставленный офицер, который служит заместителем командира полка или командует батальоном.</Rank_LieutenantColonel.description>
+    
+    <!-- Rank_Colonel -->
+    <Rank_Colonel.label>Полковник</Rank_Colonel.label>
+    <Rank_Colonel.description>Старший офицер, командующий полком или работающий в качестве старшего штабного офицера.</Rank_Colonel.description>
+    
+    <!-- Rank_BrigadierGeneral -->
+    <Rank_BrigadierGeneral.label>Бригадный генерал</Rank_BrigadierGeneral.label>
+    <Rank_BrigadierGeneral.description>Одно-звездный генерал, отвечающий за командование бригадой или работу в качестве старшего советника.</Rank_BrigadierGeneral.description>
+    
+    <!-- Rank_MajorGeneral -->
+    <Rank_MajorGeneral.label>Генерал-майор</Rank_MajorGeneral.label>
+    <Rank_MajorGeneral.description>Двух-звездный генерал, командующий дивизией или работающий на высоком штабном посту.</Rank_MajorGeneral.description>
+    
+    <!-- Rank_LieutenantGeneral -->
+    <Rank_LieutenantGeneral.label>Генерал-лейтенант</Rank_LieutenantGeneral.label>
+    <Rank_LieutenantGeneral.description>Трех-звездный генерал, отвечающий за командование корпусом или театром военных действий.</Rank_LieutenantGeneral.description>
+</LanguageData>

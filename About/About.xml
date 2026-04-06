@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rocket's Ranks RU</name>
+  <author>DrLiveseyyy</author>
+  <packageId>DrLiveseyyy.RocketsRanksRu</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+  Локализация для званий от Rocket's
+  оригинальный мод - https://steamcommunity.com/sharedfiles/filedetails/?id=3696191340
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+    </li>
+    <li>
+      <packageId>rockets.ranks</packageId>
+      <displayName>Rocket's Ranks</displayName>
+    </li>
+  </modDependencies>
+</ModMetaData>

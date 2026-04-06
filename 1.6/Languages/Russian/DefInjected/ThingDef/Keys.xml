@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Enlisted ranks -->
+    <ROCKET_Ranks_Pvt.label>Рядовой знак различия</ROCKET_Ranks_Pvt.label>
+    <ROCKET_Ranks_Pvt.description>Пара декоративных наплечных знаков для рядовых.</ROCKET_Ranks_Pvt.description>
+    
+    <ROCKET_Ranks_Pfc.label>Знак различия рядового первого класса</ROCKET_Ranks_Pfc.label>
+    <ROCKET_Ranks_Pfc.description>Пара декоративных наплечных знаков для рядовых первого класса.</ROCKET_Ranks_Pfc.description>
+    
+    <ROCKET_Ranks_Cpl.label>Знак различия капрала</ROCKET_Ranks_Cpl.label>
+    <ROCKET_Ranks_Cpl.description>Пара декоративных наплечных знаков для капралов.</ROCKET_Ranks_Cpl.description>
+    
+    <ROCKET_Ranks_Sgt.label>Знак различия сержанта</ROCKET_Ranks_Sgt.label>
+    <ROCKET_Ranks_Sgt.description>Пара декоративных наплечных знаков для сержантов.</ROCKET_Ranks_Sgt.description>
+    
+    <ROCKET_Ranks_SSgt.label>Знак различия штаб-сержанта</ROCKET_Ranks_SSgt.label>
+    <ROCKET_Ranks_SSgt.description>Пара декоративных наплечных знаков для штаб-сержантов.</ROCKET_Ranks_SSgt.description>
+    
+    <ROCKET_Ranks_Sfc.label>Знак различия сержанта первого класса</ROCKET_Ranks_Sfc.label>
+    <ROCKET_Ranks_Sfc.description>Пара декоративных наплечных знаков для сержантов первого класса.</ROCKET_Ranks_Sfc.description>
+    
+    <ROCKET_Ranks_MSgt.label>Знак различия мастера-сержанта</ROCKET_Ranks_MSgt.label>
+    <ROCKET_Ranks_MSgt.description>Пара декоративных наплечных знаков для мастер-сержантов.</ROCKET_Ranks_MSgt.description>
+    
+    <ROCKET_Ranks_FSgt.label>Знак различия первого сержанта</ROCKET_Ranks_FSgt.label>
+    <ROCKET_Ranks_FSgt.description>Пара декоративных наплечных знаков для первых сержантов.</ROCKET_Ranks_FSgt.description>
+    
+    <ROCKET_Ranks_SgtMaj.label>Знак различия сержанта-майора</ROCKET_Ranks_SgtMaj.label>
+    <ROCKET_Ranks_SgtMaj.description>Пара декоративных наплечных знаков для сержантов-майоров.</ROCKET_Ranks_SgtMaj.description>
+    
+    <!-- Officer ranks -->
+    <ROCKET_Ranks_2Lt.label>Знак различия второго лейтенанта</ROCKET_Ranks_2Lt.label>
+    <ROCKET_Ranks_2Lt.description>Пара декоративных наплечных знаков для вторых лейтенантов.</ROCKET_Ranks_2Lt.description>
+    
+    <ROCKET_Ranks_1Lt.label>Знак различия первого лейтенанта</ROCKET_Ranks_1Lt.label>
+    <ROCKET_Ranks_1Lt.description>Пара декоративных наплечных знаков для первых лейтенантов.</ROCKET_Ranks_1Lt.description>
+    
+    <ROCKET_Ranks_Capt.label>Знак различия капитана</ROCKET_Ranks_Capt.label>
+    <ROCKET_Ranks_Capt.description>Пара декоративных наплечных знаков для капитанов.</ROCKET_Ranks_Capt.description>
+    
+    <ROCKET_Ranks_Maj.label>Знак различия майора</ROCKET_Ranks_Maj.label>
+    <ROCKET_Ranks_Maj.description>Пара декоративных наплечных знаков для майоров.</ROCKET_Ranks_Maj.description>
+    
+    <ROCKET_Ranks_LtCol.label>Знак различия подполковника</ROCKET_Ranks_LtCol.label>
+    <ROCKET_Ranks_LtCol.description>Пара декоративных наплечных знаков для подполковников.</ROCKET_Ranks_LtCol.description>
+    
+    <ROCKET_Ranks_Col.label>Знак различия полковника</ROCKET_Ranks_Col.label>
+    <ROCKET_Ranks_Col.description>Пара декоративных наплечных знаков для полковников.</ROCKET_Ranks_Col.description>
+    
+    <!-- General ranks -->
+    <ROCKET_Ranks_1Star.label>Знак различия бригадного генерала</ROCKET_Ranks_1Star.label>
+    <ROCKET_Ranks_1Star.description>Пара декоративных наплечных знаков для бригадных генералов.</ROCKET_Ranks_1Star.description>
+    
+    <ROCKET_Ranks_2Star.label>Знак различия генерал-майора</ROCKET_Ranks_2Star.label>
+    <ROCKET_Ranks_2Star.description>Пара декоративных наплечных знаков для генерал-майоров.</ROCKET_Ranks_2Star.description>
+    
+    <ROCKET_Ranks_3Star.label>Знак различия генерал-лейтенанта</ROCKET_Ranks_3Star.label>
+    <ROCKET_Ranks_3Star.description>Пара декоративных наплечных знаков для генерал-лейтенантов.</ROCKET_Ranks_3Star.description>
+</LanguageData>

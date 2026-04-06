@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gizmo -->
+  <ROCKET_Promote>Повысить</ROCKET_Promote>
+  <ROCKET_PromoteDesc>Изменить ранг этого колониста. Ранг определяет, какие знаки различия и предметы экипировки, ограниченные рангом, он может носить.</ROCKET_PromoteDesc>
+
+  <!-- Dialog_Promote -->
+  <ROCKET_PromoteHeader>Изменить ранг</ROCKET_PromoteHeader>
+  <ROCKET_SelectRank>Выберите ранг:</ROCKET_SelectRank>
+  <ROCKET_PromotionCitation>Цитата (необязательно):</ROCKET_PromotionCitation>
+  <ROCKET_ConfirmPromotion>Подтвердить</ROCKET_ConfirmPromotion>
+  <ROCKET_CancelPromotion>Отмена</ROCKET_CancelPromotion>
+  <ROCKET_NoRankAssigned>Ранг не назначен</ROCKET_NoRankAssigned>
+  <ROCKET_NumberOfPromotions>{0} повышение(й)</ROCKET_NumberOfPromotions>
+  <ROCKET_NoRankSelected>Нет ранга</ROCKET_NoRankSelected>
+
+  <!-- Apparel block message -->
+  <ROCKET_RankRequired>{0} не может носить это — требуется ранг {1}.</ROCKET_RankRequired>
+
+  <!-- ITab -->
+  <ROCKET_RanksTab>Ранги</ROCKET_RanksTab>
+  <ROCKET_PromotionHistory>История повышений</ROCKET_PromotionHistory>
+  <ROCKET_StrippedOfRank>Лишён ранга</ROCKET_StrippedOfRank>
+  <ROCKET_PromotedTo>Повышен до {0}</ROCKET_PromotedTo>
+  <ROCKET_DemotedTo>Понижен до {0}</ROCKET_DemotedTo>
+  <ROCKET_RankChangedTo>Изменён на {0}</ROCKET_RankChangedTo>
+  <ROCKET_NoPromotionRecords>Нет записей о повышениях.</ROCKET_NoPromotionRecords>
+  
+  <!-- Inspect tab -->
+  <ROCKET_InspectRankRequirement>Требуется ранг {0} для ношения</ROCKET_InspectRankRequirement>
+  
+  <!-- Messages -->
+  
+  <ROCKET_HasBeenPromotedTo>{0} был повышен до {1}.</ROCKET_HasBeenPromotedTo>
+  <ROCKET_HasBeenDemotedTo>{0} был понижен до {1}.</ROCKET_HasBeenDemotedTo>
+  <ROCKET_HasBeenTransferredTo>{0} был понижен до {1}.</ROCKET_HasBeenTransferredTo>
+  <ROCKET_HasBeenAssignedRankOf>{0} был назначен ранг {1}.</ROCKET_HasBeenAssignedRankOf>
+  <ROCKET_HasBecomeACivilian>{0} стал гражданским.</ROCKET_HasBecomeACivilian>
+
+</LanguageData>
